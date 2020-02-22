@@ -30,3 +30,6 @@
 2020-02-15 11:54:03,152 [main] INFO ebanking - Entered username
 2020-02-15 11:54:03,278 [main] INFO ebanking - Entered password
 2020-02-15 11:54:05,100 [main] INFO ebanking - Login test passed
+2020-02-22 10:19:26,746 [main] INFO ebanking - URL is opened
+2020-02-22 10:19:26,990 [main] INFO ebanking - Entered username
+2020-02-22 10:19:27,110 [main] INFO ebanking - Entered password
